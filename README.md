@@ -1,4 +1,4 @@
-# [Nom du projet à définir]
+# Vulnexus
 
 Plateforme qui analyse les dépendances d'un projet Java ou JavaScript et indique **quelles vulnérabilités corriger en premier**.
 
